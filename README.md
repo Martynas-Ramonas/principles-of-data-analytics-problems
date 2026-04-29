@@ -19,7 +19,7 @@ This repository will contain solutions to the following problems:
 
 - [Problem 1: Creating the Repository](#problem-1-creating-the-repository)
 - [Problem 2: The README.md](#problem-2-the-readmemd)
-- Problem 3: gitignore
+- [Problem 3: gitignore](#problem-3-gitignore)
 - Problem 4: The Notebook
 - Problem 5: The Penguins
 - Problem 6: Visualizing Distributions
@@ -46,6 +46,15 @@ The repository will be updated regularly as I complete each problem in the asses
 For this problem, I updated the `README.md` file to describe the purpose of the repository and explain how to run the project.
 
 The README includes a short project description, a list of the main files in the repository, instructions for installing the required Python packages, and instructions for opening the Jupyter notebook.
+
+
+## Problem 3: gitignore
+
+For this problem, I added a `.gitignore` file to the repository.
+
+The `.gitignore` file is used to tell Git which files and folders should not be tracked. This helps keep the repository clean by ignoring files that are created automatically, such as Python cache files, Jupyter Notebook checkpoints, virtual environments, and system files.
+
+This is useful because these files are not part of the main assessment work and do not need to be uploaded to GitHub.
 
 
 ## How to Run This Project
