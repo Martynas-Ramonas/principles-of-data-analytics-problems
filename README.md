@@ -20,7 +20,7 @@ This repository will contain solutions to the following problems:
 - [Problem 1: Creating the Repository](#problem-1-creating-the-repository)
 - [Problem 2: The README.md](#problem-2-the-readmemd)
 - [Problem 3: gitignore](#problem-3-gitignore)
-- Problem 4: The Notebook
+- [Problem 4: The Notebook](#problem-4-the-notebook)
 - Problem 5: The Penguins
 - Problem 6: Visualizing Distributions
 - Problem 7: Investigating Relationships
@@ -55,6 +55,13 @@ For this problem, I added a `.gitignore` file to the repository.
 The `.gitignore` file is used to tell Git which files and folders should not be tracked. This helps keep the repository clean by ignoring files that are created automatically, such as Python cache files, Jupyter Notebook checkpoints, virtual environments, and system files.
 
 This is useful because these files are not part of the main assessment work and do not need to be uploaded to GitHub.
+
+
+## Problem 4: The Notebook
+
+For this problem, I created the `problems.ipynb` Jupyter notebook.
+
+The notebook contains a Level 1 title, imports the required Python libraries, and explains how pandas, numpy, and matplotlib.pyplot are used in data analytics.
 
 
 ## How to Run This Project
