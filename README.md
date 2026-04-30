@@ -21,7 +21,7 @@ This repository will contain solutions to the following problems:
 - [Problem 2: The README.md](#problem-2-the-readmemd)
 - [Problem 3: gitignore](#problem-3-gitignore)
 - [Problem 4: The Notebook](#problem-4-the-notebook)
-- Problem 5: The Penguins
+- [Problem 5: The Penguins](#problem-5-the-penguins)
 - Problem 6: Visualizing Distributions
 - Problem 7: Investigating Relationships
 - Problem 8: Modelling the Data
@@ -62,6 +62,13 @@ This is useful because these files are not part of the main assessment work and 
 For this problem, I created the `problems.ipynb` Jupyter notebook.
 
 The notebook contains a Level 1 title, imports the required Python libraries, and explains how pandas, numpy, and matplotlib.pyplot are used in data analytics.
+
+
+## Problem 5: The Penguins
+
+For this problem, I loaded the Palmer Penguins dataset into the notebook using pandas.
+
+I used the `describe()` method to calculate descriptive statistics for the numeric variables, including bill length, bill depth, flipper length, and body mass.
 
 
 ## How to Run This Project
