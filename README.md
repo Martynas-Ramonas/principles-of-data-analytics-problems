@@ -24,7 +24,7 @@ This repository will contain solutions to the following problems:
 - [Problem 5: The Penguins](#problem-5-the-penguins)
 - [Problem 6: Visualizing Distributions](#problem-6-visualizing-distributions)
 - [Problem 7: Investigating Relationships](#problem-7-investigating-relationships)
-- Problem 8: Modelling the Data
+- [Problem 8: Modelling the Data](#problem-8-modelling-the-data)
 
 
 ## Problem 1: Creating the Repository
@@ -83,6 +83,13 @@ These plots help show how the data is distributed and make it easier to identify
 For this problem, I used scatter plots to investigate relationships between variables in the Palmer Penguins dataset.
 
 I focused on the relationship between flipper length and body mass, and also compared this relationship across the different penguin species.
+
+
+## Problem 8: Modelling the Data
+
+For this problem, I used `numpy.polyfit` to create a simple straight-line model.
+
+The model looks at whether body mass can be used to estimate bill length. I also calculated the R-squared value and plotted the straight line on a scatter plot.
 
 
 ## How to Run This Project
