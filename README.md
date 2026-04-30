@@ -23,7 +23,7 @@ This repository will contain solutions to the following problems:
 - [Problem 4: The Notebook](#problem-4-the-notebook)
 - [Problem 5: The Penguins](#problem-5-the-penguins)
 - [Problem 6: Visualizing Distributions](#problem-6-visualizing-distributions)
-- Problem 7: Investigating Relationships
+- [Problem 7: Investigating Relationships](#problem-7-investigating-relationships)
 - Problem 8: Modelling the Data
 
 
@@ -76,6 +76,13 @@ I used the `describe()` method to calculate descriptive statistics for the numer
 For this problem, I created histograms for the numeric variables in the Palmer Penguins dataset and bar charts for the categorical variables.
 
 These plots help show how the data is distributed and make it easier to identify patterns in the dataset.
+
+
+## Problem 7: Investigating Relationships
+
+For this problem, I used scatter plots to investigate relationships between variables in the Palmer Penguins dataset.
+
+I focused on the relationship between flipper length and body mass, and also compared this relationship across the different penguin species.
 
 
 ## How to Run This Project
