@@ -22,7 +22,7 @@ This repository will contain solutions to the following problems:
 - [Problem 3: gitignore](#problem-3-gitignore)
 - [Problem 4: The Notebook](#problem-4-the-notebook)
 - [Problem 5: The Penguins](#problem-5-the-penguins)
-- Problem 6: Visualizing Distributions
+- [Problem 6: Visualizing Distributions](#problem-6-visualizing-distributions)
 - Problem 7: Investigating Relationships
 - Problem 8: Modelling the Data
 
@@ -69,6 +69,13 @@ The notebook contains a Level 1 title, imports the required Python libraries, an
 For this problem, I loaded the Palmer Penguins dataset into the notebook using pandas.
 
 I used the `describe()` method to calculate descriptive statistics for the numeric variables, including bill length, bill depth, flipper length, and body mass.
+
+
+## Problem 6: Visualizing Distributions
+
+For this problem, I created histograms for the numeric variables in the Palmer Penguins dataset and bar charts for the categorical variables.
+
+These plots help show how the data is distributed and make it easier to identify patterns in the dataset.
 
 
 ## How to Run This Project
